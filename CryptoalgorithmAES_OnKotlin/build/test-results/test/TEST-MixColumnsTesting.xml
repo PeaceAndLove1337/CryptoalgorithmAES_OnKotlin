@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MixColumnsTesting" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-02-05T11:44:23" hostname="LAPTOP-6R46FHR6" time="0.007">
+  <properties/>
+  <testcase name="mixColumnsTest1" classname="MixColumnsTesting" time="0.006"/>
+  <testcase name="mixColumnsTest2" classname="MixColumnsTesting" time="0.001"/>
+  <testcase name="mixColumnsTest3" classname="MixColumnsTesting" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
